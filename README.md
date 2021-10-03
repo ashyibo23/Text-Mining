@@ -18,7 +18,10 @@ Colons can be used to align columns.
 
 The tasks are divided into several steps:
 
- Markup : * Bullet list
+- Item 1
+- Item 2
+  - Sub Item 1
+  - Sub Item 2
  
             
 
